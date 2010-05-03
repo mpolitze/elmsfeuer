@@ -1,0 +1,4 @@
+#summary gemischte Links rund um NWN
+
+NWN Tools Homepage:
+http://nwntools.sourceforge.net/
