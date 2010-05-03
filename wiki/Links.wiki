@@ -1,4 +1,10 @@
 #summary gemischte Links rund um NWN
 
-NWN Tools Homepage:
+== HAKs ==
+Hübsch?: http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7909
+
+
+== Programme ==
+
+NWN Tools Homepage (in unserem Repository im "tools" Ordner):
 http://nwntools.sourceforge.net/
