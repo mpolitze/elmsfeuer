@@ -16,10 +16,10 @@
         <element name="Mod_Description" type="12" value="-1" />
         <element name="Mod_IsSaveGame" type="0" value="0" />
         <element name="Mod_CustomTlk" type="10" value="" />
-        <element name="Mod_Entry_Area" type="11" value="gebiet001" />
-        <element name="Mod_Entry_X" type="8" value="40.0" />
-        <element name="Mod_Entry_Y" type="8" value="40.0" />
-        <element name="Mod_Entry_Z" type="8" value="0.0" />
+        <element name="Mod_Entry_Area" type="11" value="wehr001" />
+        <element name="Mod_Entry_X" type="8" value="124.584114" />
+        <element name="Mod_Entry_Y" type="8" value="124.84235" />
+        <element name="Mod_Entry_Z" type="8" value="-0.5" />
         <element name="Mod_Entry_Dir_X" type="8" value="0.0" />
         <element name="Mod_Entry_Dir_Y" type="8" value="1.0" />
         <element name="Mod_Expan_List" type="15" />
@@ -57,9 +57,6 @@
                 <element name="Area_Name" type="11" value="gebiet001" />
             </struct>
             <struct id="6" >
-                <element name="Area_Name" type="11" value="wehr" />
-            </struct>
-            <struct id="6" >
                 <element name="Area_Name" type="11" value="wehr001" />
             </struct>
             <struct id="6" >
@@ -68,13 +65,13 @@
         </element>
         <element name="Mod_HakList" type="15" >
             <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_top_v23" />
+            </struct>
+            <struct id="8" >
                 <element name="Mod_Hak" type="10" value="worm_cypressv2" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="wrm_fantasyint" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="wrm_placev1" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="wrm_scorche" />
@@ -174,9 +171,6 @@
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_top_v22" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_top_v23" />
             </struct>
         </element>
         <element name="Mod_CacheNSSList" type="15" />

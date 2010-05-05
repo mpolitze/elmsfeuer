@@ -6,6 +6,549 @@
     <struct id="-1" >
         <element name="MAIN" type="15" >
             <struct id="0" >
+                <element name="STRREF" type="4" value="16966218" />
+                <element name="LIST" type="15" >
+                    <struct id="0" >
+                        <element name="STRREF" type="4" value="16966220" />
+                        <element name="ID" type="0" value="52" />
+                        <element name="LIST" type="15" >
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966245" />
+                                <element name="ID" type="0" value="80" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="180" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="181" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="182" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="183" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="184" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966248" />
+                                <element name="ID" type="0" value="196" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966249" />
+                                <element name="ID" type="0" value="198" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Merchant NPC Template" />
+                                        <element name="RESREF" type="11" value="crpc_merchant" />
+                                        <element name="CR" type="8" value="0.25" />
+                                        <element name="FACTION" type="10" value="Händler" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6693" />
+                                <element name="ID" type="0" value="56" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="65" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="66" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="67" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="68" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="69" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6731" />
+                                <element name="ID" type="0" value="58" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="75" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="76" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="77" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="78" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="79" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6687" />
+                                <element name="ID" type="0" value="59" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="60" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="61" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="62" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="63" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="64" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6694" />
+                                <element name="ID" type="0" value="57" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="70" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="71" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="72" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="73" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="74" />
+                                    </struct>
+                                </element>
+                            </struct>
+                        </element>
+                    </struct>
+                    <struct id="0" >
+                        <element name="STRREF" type="4" value="16966221" />
+                        <element name="ID" type="0" value="53" />
+                        <element name="LIST" type="15" >
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966245" />
+                                <element name="ID" type="0" value="81" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="185" />
+                                        <element name="LIST" type="15" >
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Dragon Friend" />
+                                                <element name="RESREF" type="11" value="zep_dragon_ride" />
+                                                <element name="CR" type="8" value="1.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Horse, Aurenthil *" />
+                                                <element name="RESREF" type="11" value="henchman_horseau" />
+                                                <element name="CR" type="8" value="8.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Horse, Black *" />
+                                                <element name="RESREF" type="11" value="henchman_horsebk" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Horse, Brown *" />
+                                                <element name="RESREF" type="11" value="henchman_horse2" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Horse, Nightmare *" />
+                                                <element name="RESREF" type="11" value="henchman_horsenm" />
+                                                <element name="CR" type="8" value="9.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Horse, White *" />
+                                                <element name="RESREF" type="11" value="henchman_horsewt" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Nachtmahr" />
+                                                <element name="RESREF" type="11" value="dla_nightmare001" />
+                                                <element name="CR" type="8" value="8.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Nachtmahr" />
+                                                <element name="RESREF" type="11" value="dla_nightmare003" />
+                                                <element name="CR" type="8" value="8.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd" />
+                                                <element name="RESREF" type="11" value="dla_horse001" />
+                                                <element name="CR" type="8" value="0.5" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd" />
+                                                <element name="RESREF" type="11" value="horse002" />
+                                                <element name="CR" type="8" value="0.5" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd, Tjost" />
+                                                <element name="RESREF" type="11" value="dla_jousthorse1" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd, Tjost" />
+                                                <element name="RESREF" type="11" value="dla_jousthorse2" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd, Tjost" />
+                                                <element name="RESREF" type="11" value="dla_jousthorse3" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="STRREF" type="4" value="111459" />
+                                                <element name="RESREF" type="11" value="dla_jousthorse4" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="STRREF" type="4" value="111459" />
+                                                <element name="RESREF" type="11" value="dla_jousthorse5" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="STRREF" type="4" value="111459" />
+                                                <element name="RESREF" type="11" value="jousthorse002" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pferd, Tjost" />
+                                                <element name="RESREF" type="11" value="jousthorse003" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="STRREF" type="4" value="111459" />
+                                                <element name="RESREF" type="11" value="jousthorse004" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pony, Brown *" />
+                                                <element name="RESREF" type="11" value="henchman_ponybn" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pony, Spotted *" />
+                                                <element name="RESREF" type="11" value="henchman_ponysp" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Pony, White *" />
+                                                <element name="RESREF" type="11" value="henchman_pony" />
+                                                <element name="CR" type="8" value="2.0" />
+                                                <element name="FACTION" type="10" value="Bürgerlicher" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Schweres Schlachtross" />
+                                                <element name="RESREF" type="11" value="dla_hvywarhorse" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Schweres Schlachtross" />
+                                                <element name="RESREF" type="11" value="dla_hvywarhorse2" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="STRREF" type="4" value="111458" />
+                                                <element name="RESREF" type="11" value="dla_hvywarhorse3" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Schweres Schlachtross" />
+                                                <element name="RESREF" type="11" value="dla_hvywarhorse4" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Schweres Schlachtross" />
+                                                <element name="RESREF" type="11" value="dla_invisible" />
+                                                <element name="CR" type="8" value="3.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Unicorn" />
+                                                <element name="RESREF" type="11" value="cep_unicorn" />
+                                                <element name="CR" type="8" value="4.0" />
+                                                <element name="FACTION" type="10" value="Verteidiger" />
+                                            </struct>
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="Unicorn, Black" />
+                                                <element name="RESREF" type="11" value="cep_unicorn001" />
+                                                <element name="CR" type="8" value="4.0" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                        </element>
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="186" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="187" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="188" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="189" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966248" />
+                                <element name="ID" type="0" value="197" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966249" />
+                                <element name="ID" type="0" value="199" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6693" />
+                                <element name="ID" type="0" value="156" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="165" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="166" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="167" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="168" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="169" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6731" />
+                                <element name="ID" type="0" value="158" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="175" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="176" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="177" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="178" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="179" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6687" />
+                                <element name="ID" type="0" value="159" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="160" />
+                                        <element name="LIST" type="15" >
+                                            <struct id="0" >
+                                                <element name="NAME" type="10" value="CEP Creature Wizard" />
+                                                <element name="RESREF" type="11" value="zep_cw_cre" />
+                                                <element name="CR" type="8" value="0.16666667" />
+                                                <element name="FACTION" type="10" value="Händler" />
+                                            </struct>
+                                        </element>
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="161" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="162" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="163" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="164" />
+                                    </struct>
+                                </element>
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6694" />
+                                <element name="ID" type="0" value="157" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6688" />
+                                        <element name="ID" type="0" value="170" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6689" />
+                                        <element name="ID" type="0" value="171" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6690" />
+                                        <element name="ID" type="0" value="172" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6691" />
+                                        <element name="ID" type="0" value="173" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="STRREF" type="4" value="6692" />
+                                        <element name="ID" type="0" value="174" />
+                                    </struct>
+                                </element>
+                            </struct>
+                        </element>
+                    </struct>
+                    <struct id="0" >
+                        <element name="STRREF" type="4" value="16966234" />
+                        <element name="ID" type="0" value="54" />
+                        <element name="LIST" type="15" >
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966240" />
+                                <element name="ID" type="0" value="190" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966243" />
+                                <element name="ID" type="0" value="191" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966244" />
+                                <element name="ID" type="0" value="192" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966241" />
+                                <element name="ID" type="0" value="193" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966242" />
+                                <element name="ID" type="0" value="194" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="16966249" />
+                                <element name="ID" type="0" value="200" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="201" />
+                                <element name="ID" type="0" value="195" />
+                            </struct>
+                        </element>
+                    </struct>
+                    <struct id="0" >
+                        <element name="STRREF" type="4" value="16966250" />
+                        <element name="ID" type="0" value="201" />
+                        <element name="LIST" type="15" >
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6688" />
+                                <element name="ID" type="0" value="202" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6689" />
+                                <element name="ID" type="0" value="203" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6690" />
+                                <element name="ID" type="0" value="204" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6691" />
+                                <element name="ID" type="0" value="205" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="STRREF" type="4" value="6692" />
+                                <element name="ID" type="0" value="206" />
+                            </struct>
+                        </element>
+                    </struct>
+                </element>
+            </struct>
+            <struct id="0" >
+                <element name="STRREF" type="4" value="16967223" />
+                <element name="ID" type="0" value="51" />
+            </struct>
+            <struct id="0" >
                 <element name="STRREF" type="4" value="6732" />
                 <element name="ID" type="0" value="46" />
                 <element name="LIST" type="15" >
