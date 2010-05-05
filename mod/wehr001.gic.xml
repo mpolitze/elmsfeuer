@@ -79,7 +79,25 @@
                 <element name="Comment" type="10" value="Wall 1 Gate" />
             </struct>
             <struct id="8" >
-                <element name="Comment" type="10" value="Wall 1 Gate" />
+                <element name="Comment" type="10" value="RuralExit" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="WallDoor" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="CaveExit" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="TNO Wooden Door" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="BridgeDoor" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="RuralExit" />
+            </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="WallDoor" />
             </struct>
         </element>
         <element name="Encounter List" type="15" />
@@ -88,6 +106,112 @@
         <element name="StoreList" type="15" />
         <element name="TriggerList" type="15" />
         <element name="WaypointList" type="15" />
-        <element name="Placeable List" type="15" />
+        <element name="Placeable List" type="15" >
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="A Market Stall" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Sacks of Flour, Grain, etc." />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Bolts of Cloth" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Telescope" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Ballista" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Torture Equipment" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Catapult" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Battering Ram" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Battering Ram" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Battering Ram" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Battering Ram" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Archery Target" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Archery Target" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Combat Dummy" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Combat Dummy" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Butterflies" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Well" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Lamp Post" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Lamp Post" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Lamp Post" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Full Wagon" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Empty Wagon" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Wagon Wheel" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Water Trough" />
+            </struct>
+        </element>
     </struct>
 </gff>
