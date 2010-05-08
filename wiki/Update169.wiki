@@ -1,3 +1,5 @@
+#summary NWN auf 1.69 patchen
+
 = Auf 1.69 patchen =
 Patch 1.69 für NWN gibt es nur für die englische Version. Um ein deutsches NWN upzudaten müssen folgende Schritte durchgeführt werden:
   * Dialog.tlk mit der englischen Version überschreiben. Englische Dialog.tlk gibt's [http://files.bioware.com/neverwinternights/dialog/english/NWNEnglish1.69dialog.zip hier].
