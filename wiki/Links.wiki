@@ -5,6 +5,8 @@ Hübsch?: http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7909
 
 Hübsch!: http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6631 (Tilesets)
 
+http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6199 (Detailiertere Hände) - Optional Override?
+
 == Programme ==
 
 NWN Tools Homepage (in unserem Repository im "tools" Ordner):
