@@ -12,6 +12,12 @@
             <struct id="0" >
                 <element name="STRREF" type="4" value="5545" />
                 <element name="ID" type="0" value="7" />
+                <element name="LIST" type="15" >
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="STD_Auslöser" />
+                        <element name="RESREF" type="11" value="elm_encounter" />
+                    </struct>
+                </element>
             </struct>
             <struct id="0" >
                 <element name="STRREF" type="4" value="5546" />

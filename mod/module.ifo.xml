@@ -10,16 +10,19 @@
         <element name="Mod_Version" type="4" value="3" />
         <element name="Expansion_Pack" type="2" value="3" />
         <element name="Mod_Name" type="12" value="-1" >
+            <localString languageId="0" value="Elmsfeuer" />
             <localString languageId="4" value="Elmsfeuer" />
         </element>
         <element name="Mod_Tag" type="10" value="MODUL" />
-        <element name="Mod_Description" type="12" value="-1" />
+        <element name="Mod_Description" type="12" value="-1" >
+            <localString languageId="4" value="" />
+        </element>
         <element name="Mod_IsSaveGame" type="0" value="0" />
-        <element name="Mod_CustomTlk" type="10" value="" />
-        <element name="Mod_Entry_Area" type="11" value="wehr001" />
-        <element name="Mod_Entry_X" type="8" value="124.584114" />
-        <element name="Mod_Entry_Y" type="8" value="124.84235" />
-        <element name="Mod_Entry_Z" type="8" value="-0.5" />
+        <element name="Mod_CustomTlk" type="10" value="cep23_v1" />
+        <element name="Mod_Entry_Area" type="11" value="kanalisation" />
+        <element name="Mod_Entry_X" type="8" value="25.509539" />
+        <element name="Mod_Entry_Y" type="8" value="67.59704" />
+        <element name="Mod_Entry_Z" type="8" value="-0.002840519" />
         <element name="Mod_Entry_Dir_X" type="8" value="0.0" />
         <element name="Mod_Entry_Dir_Y" type="8" value="1.0" />
         <element name="Mod_Expan_List" type="15" />
@@ -32,7 +35,7 @@
         <element name="Mod_StartYear" type="4" value="1372" />
         <element name="Mod_XPScale" type="0" value="10" />
         <element name="Mod_OnHeartbeat" type="11" value="" />
-        <element name="Mod_OnModLoad" type="11" value="x2_mod_def_load" />
+        <element name="Mod_OnModLoad" type="11" value="rs_init" />
         <element name="Mod_OnModStart" type="11" value="" />
         <element name="Mod_OnClientEntr" type="11" value="" />
         <element name="Mod_OnClientLeav" type="11" value="" />
@@ -54,18 +57,54 @@
         <element name="Mod_GVar_List" type="15" />
         <element name="Mod_Area_list" type="15" >
             <struct id="6" >
-                <element name="Area_Name" type="11" value="gebiet001" />
-            </struct>
-            <struct id="6" >
                 <element name="Area_Name" type="11" value="wehr001" />
             </struct>
             <struct id="6" >
                 <element name="Area_Name" type="11" value="32x32" />
             </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="stadttest2" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="stadttest" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="area" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="we_vorland001" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="stadttest3" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="kanalisation" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="altekrypta" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="hornwald" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="area002" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="area001" />
+            </struct>
         </element>
         <element name="Mod_HakList" type="15" >
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_top_v23" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_top_v22" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_top_v21" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_custom" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="worm_cypressv2" />
@@ -89,19 +128,19 @@
                 <element name="Mod_Hak" type="10" value="cep2_add_loads" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_phenos1" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_phenos2" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_phenos3" />
+                <element name="Mod_Hak" type="10" value="cep2_add_phenos5" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_add_phenos4" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_phenos5" />
+                <element name="Mod_Hak" type="10" value="cep2_add_phenos3" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_add_phenos2" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_add_phenos1" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_add_rules" />
@@ -113,37 +152,37 @@
                 <element name="Mod_Hak" type="10" value="cep2_add_skies" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_tiles" />
+                <element name="Mod_Hak" type="10" value="cep2_add_tiles2" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_add_tiles1" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_add_tiles2" />
+                <element name="Mod_Hak" type="10" value="cep2_add_tiles" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_build" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core0" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core1" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core2" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core3" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core4" />
+                <element name="Mod_Hak" type="10" value="cep2_core6" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_core5" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_core6" />
+                <element name="Mod_Hak" type="10" value="cep2_core4" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_core3" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_core2" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_core1" />
+            </struct>
+            <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_core0" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_crp" />
@@ -152,25 +191,19 @@
                 <element name="Mod_Hak" type="10" value="cep2_crp_s" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_custom" />
-            </struct>
-            <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_ext_tiles" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_patch_v22b" />
             </struct>
             <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_patch_v22c" />
             </struct>
             <struct id="8" >
+                <element name="Mod_Hak" type="10" value="cep2_patch_v22b" />
+            </struct>
+            <struct id="8" >
                 <element name="Mod_Hak" type="10" value="cep2_top_v1" />
             </struct>
             <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_top_v21" />
-            </struct>
-            <struct id="8" >
-                <element name="Mod_Hak" type="10" value="cep2_top_v22" />
+                <element name="Mod_Hak" type="10" value="wrm_placev1" />
             </struct>
         </element>
         <element name="Mod_CacheNSSList" type="15" />
