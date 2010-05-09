@@ -18,6 +18,8 @@ http://nwvault.ign.com/View.php?view=Other.Detail&id=1443 (Grafikeffekte)
 
 http://nwvault.ign.com/View.php?view=Scripts.Detail&id=2864 (Stufen 41-61)
 
+http://nwn.wikia.com/wiki/Nwn.ini (NWN Ini-Einträge)
+
 == Programme ==
 
 NWN Tools Homepage (in unserem Repository im "tools" Ordner):
