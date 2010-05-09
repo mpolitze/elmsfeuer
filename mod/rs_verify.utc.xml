@@ -24,8 +24,8 @@
         <element name="Disarmable" type="0" value="0" />
         <element name="Subrace" type="10" value="" />
         <element name="Deity" type="10" value="" />
-        <element name="Wings" type="0" value="0" />
-        <element name="Tail" type="0" value="0" />
+        <element name="Wings_New" type="4" value="0" />
+        <element name="Tail_New" type="4" value="0" />
         <element name="SoundSetFile" type="2" value="65535" />
         <element name="Plot" type="0" value="1" />
         <element name="IsImmortal" type="0" value="1" />
@@ -68,6 +68,9 @@
         <element name="ScriptUserDefine" type="11" value="" />
         <element name="ScriptOnBlocked" type="11" value="" />
         <element name="SkillList" type="15" >
+            <struct id="0" >
+                <element name="Rank" type="0" value="0" />
+            </struct>
             <struct id="0" >
                 <element name="Rank" type="0" value="0" />
             </struct>

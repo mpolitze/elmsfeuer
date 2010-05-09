@@ -74,7 +74,7 @@
                 <element name="X" type="8" value="1.8199999" />
                 <element name="Y" type="8" value="45.0" />
                 <element name="Z" type="8" value="0.0" />
-                <element name="Bearing" type="8" value="-1.5707957" />
+                <element name="Bearing" type="8" value="-1.5707954" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="RuralExit" />
@@ -129,7 +129,7 @@
                 <element name="X" type="8" value="118.18" />
                 <element name="Y" type="8" value="25.0" />
                 <element name="Z" type="8" value="0.0" />
-                <element name="Bearing" type="8" value="1.5707957" />
+                <element name="Bearing" type="8" value="1.5707954" />
                 <element name="Comment" type="10" value="" />
             </struct>
         </element>
@@ -416,7 +416,7 @@
                 <element name="X" type="8" value="38.072113" />
                 <element name="Y" type="8" value="1.4606447" />
                 <element name="Z" type="8" value="0.0" />
-                <element name="Bearing" type="8" value="1.9634945" />
+                <element name="Bearing" type="8" value="1.9634942" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_boulder2" />

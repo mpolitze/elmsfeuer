@@ -72,7 +72,7 @@
                 <element name="X" type="8" value="25.0" />
                 <element name="Y" type="8" value="63.62" />
                 <element name="Z" type="8" value="0.0" />
-                <element name="Bearing" type="8" value="-3.1415899" />
+                <element name="Bearing" type="8" value="-3.141589" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="KanaOut" />
@@ -127,7 +127,7 @@
                 <element name="X" type="8" value="85.0" />
                 <element name="Y" type="8" value="3.62" />
                 <element name="Z" type="8" value="0.0" />
-                <element name="Bearing" type="8" value="-3.1415899" />
+                <element name="Bearing" type="8" value="-3.141589" />
             </struct>
         </element>
         <element name="Encounter List" type="15" />
@@ -154,7 +154,7 @@
                     <struct id="0" >
                         <element name="Name" type="10" value="Number of Creatures Min" />
                         <element name="Type" type="4" value="1" />
-                        <element name="Value" type="5" value="8" />
+                        <element name="Value" type="5" value="16" />
                     </struct>
                     <struct id="0" >
                         <element name="Name" type="10" value="New Tag of Creature" />
@@ -209,7 +209,7 @@
                     <struct id="0" >
                         <element name="Name" type="10" value="Number of Creatures Max" />
                         <element name="Type" type="4" value="1" />
-                        <element name="Value" type="5" value="14" />
+                        <element name="Value" type="5" value="20" />
                     </struct>
                     <struct id="0" >
                         <element name="Name" type="10" value="HP Adjust Max" />
@@ -299,6 +299,22 @@
                 </element>
                 <element name="XPosition" type="8" value="26.314905" />
                 <element name="YPosition" type="8" value="69.47777" />
+                <element name="ZPosition" type="8" value="-5.722046E-6" />
+                <element name="XOrientation" type="8" value="0.0" />
+                <element name="YOrientation" type="8" value="1.0" />
+            </struct>
+            <struct id="5" >
+                <element name="Appearance" type="0" value="1" />
+                <element name="LinkedTo" type="10" value="" />
+                <element name="TemplateResRef" type="11" value="nw_waypoint001" />
+                <element name="Tag" type="10" value="dj02_wp_kanaIn" />
+                <element name="LocalizedName" type="12" value="14817" />
+                <element name="Description" type="12" value="-1" />
+                <element name="HasMapNote" type="0" value="0" />
+                <element name="MapNote" type="12" value="-1" />
+                <element name="MapNoteEnabled" type="0" value="1" />
+                <element name="XPosition" type="8" value="85.02496" />
+                <element name="YPosition" type="8" value="7.0905714" />
                 <element name="ZPosition" type="8" value="-5.722046E-6" />
                 <element name="XOrientation" type="8" value="0.0" />
                 <element name="YOrientation" type="8" value="1.0" />
@@ -539,7 +555,7 @@
                 <element name="X" type="8" value="27.029755" />
                 <element name="Y" type="8" value="51.157326" />
                 <element name="Z" type="8" value="-5.722046E-6" />
-                <element name="Bearing" type="8" value="-0.19634944" />
+                <element name="Bearing" type="8" value="-0.19634941" />
             </struct>
         </element>
     </struct>
