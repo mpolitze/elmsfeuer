@@ -19,10 +19,10 @@
         </element>
         <element name="Mod_IsSaveGame" type="0" value="0" />
         <element name="Mod_CustomTlk" type="10" value="cep23_v1" />
-        <element name="Mod_Entry_Area" type="11" value="kanalisation" />
-        <element name="Mod_Entry_X" type="8" value="25.509539" />
-        <element name="Mod_Entry_Y" type="8" value="67.59704" />
-        <element name="Mod_Entry_Z" type="8" value="-0.002840519" />
+        <element name="Mod_Entry_Area" type="11" value="dj01" />
+        <element name="Mod_Entry_X" type="8" value="135.25853" />
+        <element name="Mod_Entry_Y" type="8" value="161.35313" />
+        <element name="Mod_Entry_Z" type="8" value="5.084852" />
         <element name="Mod_Entry_Dir_X" type="8" value="0.0" />
         <element name="Mod_Entry_Dir_Y" type="8" value="1.0" />
         <element name="Mod_Expan_List" type="15" />
@@ -75,9 +75,6 @@
                 <element name="Area_Name" type="11" value="we_vorland001" />
             </struct>
             <struct id="6" >
-                <element name="Area_Name" type="11" value="stadttest3" />
-            </struct>
-            <struct id="6" >
                 <element name="Area_Name" type="11" value="kanalisation" />
             </struct>
             <struct id="6" >
@@ -91,6 +88,9 @@
             </struct>
             <struct id="6" >
                 <element name="Area_Name" type="11" value="area001" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="dj01" />
             </struct>
         </element>
         <element name="Mod_HakList" type="15" >

@@ -39,6 +39,10 @@
                         <element name="RESREF" type="11" value="crpw_respawn" />
                     </struct>
                     <struct id="0" >
+                        <element name="NAME" type="10" value="Elm Default Spawner" />
+                        <element name="RESREF" type="11" value="rs_spawn_crea001" />
+                    </struct>
+                    <struct id="0" >
                         <element name="NAME" type="10" value="Hidden Object Marker" />
                         <element name="RESREF" type="11" value="crpw_hidden_obj" />
                     </struct>

@@ -897,6 +897,10 @@
                                 <element name="RESREF" type="11" value="zep_cre_skelh" />
                             </struct>
                             <struct id="0" >
+                                <element name="NAME" type="10" value="Skelettmagier/-priester, Eigenschaften" />
+                                <element name="RESREF" type="11" value="it_creitem002" />
+                            </struct>
+                            <struct id="0" >
                                 <element name="STRREF" type="4" value="16807694" />
                                 <element name="RESREF" type="11" value="zep_cre_snakeh" />
                             </struct>
@@ -1145,6 +1149,14 @@
                                 <element name="RESREF" type="11" value="zp_abishcl_001" />
                             </struct>
                             <struct id="0" >
+                                <element name="NAME" type="10" value="Klaue (1W4)" />
+                                <element name="RESREF" type="11" value="it_crewpsp126" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Klaue (1W4)" />
+                                <element name="RESREF" type="11" value="it_crewpsp013" />
+                            </struct>
+                            <struct id="0" >
                                 <element name="NAME" type="10" value="Maelephant Claw" />
                                 <element name="RESREF" type="11" value="zep_maelclaw" />
                             </struct>
@@ -1316,6 +1328,10 @@
                             <struct id="0" >
                                 <element name="STRREF" type="4" value="16807594" />
                                 <element name="RESREF" type="11" value="zep_monk" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Nekromantenrobe" />
+                                <element name="RESREF" type="11" value="dj03_nekrorobe" />
                             </struct>
                             <struct id="0" >
                                 <element name="STRREF" type="4" value="16807606" />
@@ -2649,6 +2665,10 @@
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807344" />
                                         <element name="RESREF" type="11" value="zep_brokendagg" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Eisklaue" />
+                                        <element name="RESREF" type="11" value="dj03_nekrodolch" />
                                     </struct>
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807902" />

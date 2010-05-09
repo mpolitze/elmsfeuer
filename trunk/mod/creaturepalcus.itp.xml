@@ -6802,6 +6802,12 @@
                                         <element name="FACTION" type="10" value="Feindlich" />
                                     </struct>
                                     <struct id="0" >
+                                        <element name="NAME" type="10" value="Nekromant" />
+                                        <element name="RESREF" type="11" value="dj03_nekromant" />
+                                        <element name="CR" type="8" value="5.0" />
+                                        <element name="FACTION" type="10" value="Feindlich" />
+                                    </struct>
+                                    <struct id="0" >
                                         <element name="STRREF" type="4" value="16816298" />
                                         <element name="RESREF" type="11" value="zep_skelgreen" />
                                         <element name="CR" type="8" value="3.0" />
@@ -6880,7 +6886,7 @@
                                         <element name="FACTION" type="10" value="Feindlich" />
                                     </struct>
                                     <struct id="0" >
-                                        <element name="NAME" type="10" value="Skelett" />
+                                        <element name="STRREF" type="4" value="12701" />
                                         <element name="RESREF" type="11" value="elm_skelett" />
                                         <element name="CR" type="8" value="0.5" />
                                         <element name="FACTION" type="10" value="Feindlich" />
