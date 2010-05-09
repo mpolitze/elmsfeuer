@@ -7,6 +7,10 @@ Hübsch!: http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6631 (Tilesets)
 
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6199 (Detailiertere Hände) - Optional Override?
 
+== Nützliche Links ==
+
+http://nwvault.ign.com/View.php?view=Scripts.Detail&id=2864 (Stufen 41-61)
+
 == Programme ==
 
 NWN Tools Homepage (in unserem Repository im "tools" Ordner):
