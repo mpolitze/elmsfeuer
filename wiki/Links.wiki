@@ -9,7 +9,9 @@ http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6199 (Detailiertere Händ
 
 === Grafik verbesserung ===
 http://www.qnwn.net/home/ (Models, Portraits, Items...)
+
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7848 (Tilesets und Texturen)
+
 http://nwvault.ign.com/View.php?view=Other.Detail&id=1443 (Grafikeffekte)
 
 == Nützliche Links ==
