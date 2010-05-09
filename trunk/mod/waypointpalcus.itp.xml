@@ -47,8 +47,32 @@
                         <element name="RESREF" type="11" value="crpw_rallypoint" />
                     </struct>
                     <struct id="0" >
+                        <element name="NAME" type="10" value="RS_CREATURE_RESREF" />
+                        <element name="RESREF" type="11" value="rs_spawn_creatur" />
+                    </struct>
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="RS_ITEM_RESREF" />
+                        <element name="RESREF" type="11" value="rs_spawn_item" />
+                    </struct>
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="RS_TRAP_RESREF" />
+                        <element name="RESREF" type="11" value="rs_spawn_trap" />
+                    </struct>
+                    <struct id="0" >
                         <element name="NAME" type="10" value="Sound Waypoint" />
                         <element name="RESREF" type="11" value="crpw_soundemit" />
+                    </struct>
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="Wegpunkt" />
+                        <element name="RESREF" type="11" value="rs_spawn_area" />
+                    </struct>
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="Wegpunkt" />
+                        <element name="RESREF" type="11" value="rs_spawn_placeab" />
+                    </struct>
+                    <struct id="0" >
+                        <element name="NAME" type="10" value="Wegpunkt" />
+                        <element name="RESREF" type="11" value="rs_spawn_vault" />
                     </struct>
                 </element>
             </struct>

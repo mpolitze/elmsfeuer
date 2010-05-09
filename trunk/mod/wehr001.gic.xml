@@ -99,6 +99,9 @@
             <struct id="8" >
                 <element name="Comment" type="10" value="WallDoor" />
             </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="Wall 1 Gate" />
+            </struct>
         </element>
         <element name="Encounter List" type="15" />
         <element name="List" type="15" />
