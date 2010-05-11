@@ -1,0 +1,11 @@
+#summary Benutze Variablen. Namen und deren Nutzen.
+#labels Phase-Implementation
+
+= Lokale Spieler Variablen =
+
+ELM_RESPAWN_TAG - Tag des Respawn-Wegpunktes für den Aktuellen Spieler.
+
+
+= Wichtige Tags =
+
+ELM_RESPAWN - Default Tag für den Respawn-Wegpunkt.
