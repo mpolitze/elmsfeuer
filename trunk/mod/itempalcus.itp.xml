@@ -1417,6 +1417,22 @@
                                 <element name="STRREF" type="4" value="16807957" />
                                 <element name="RESREF" type="11" value="zep_studdedleath" />
                             </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Waffenrock" />
+                                <element name="RESREF" type="11" value="aarcl015" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Waffenrock" />
+                                <element name="RESREF" type="11" value="aarcl016" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Waffenrock" />
+                                <element name="RESREF" type="11" value="aarcl017" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Waffenrock" />
+                                <element name="RESREF" type="11" value="aarcl018" />
+                            </struct>
                         </element>
                     </struct>
                     <struct id="0" >
@@ -2615,6 +2631,10 @@
                                         <element name="NAME" type="10" value="Langbogen" />
                                         <element name="RESREF" type="11" value="zep_wolbw_001" />
                                     </struct>
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Langbogen" />
+                                        <element name="RESREF" type="11" value="wbwln003" />
+                                    </struct>
                                 </element>
                             </struct>
                             <struct id="0" >
@@ -2633,6 +2653,10 @@
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807302" />
                                         <element name="RESREF" type="11" value="zep_armandspoint" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Rapier" />
+                                        <element name="RESREF" type="11" value="wswrp003" />
                                     </struct>
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807650" />
@@ -2673,6 +2697,10 @@
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807902" />
                                         <element name="RESREF" type="11" value="zep_gauche" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Giftdolch" />
+                                        <element name="RESREF" type="11" value="dj03_giftdolch" />
                                     </struct>
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807716" />
@@ -2769,6 +2797,10 @@
                                         <element name="RESREF" type="11" value="zep_jian" />
                                     </struct>
                                     <struct id="0" >
+                                        <element name="NAME" type="10" value="Langschwert" />
+                                        <element name="RESREF" type="11" value="wswls003" />
+                                    </struct>
+                                    <struct id="0" >
                                         <element name="STRREF" type="4" value="16807640" />
                                         <element name="RESREF" type="11" value="zep_planetarls" />
                                     </struct>
@@ -2847,6 +2879,12 @@
                             <struct id="0" >
                                 <element name="STRREF" type="4" value="6757" />
                                 <element name="ID" type="0" value="27" />
+                                <element name="LIST" type="15" >
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Giftpfeil (schwach)" />
+                                        <element name="RESREF" type="11" value="wammar013" />
+                                    </struct>
+                                </element>
                             </struct>
                             <struct id="0" >
                                 <element name="STRREF" type="4" value="6759" />
@@ -3020,6 +3058,10 @@
                                     <struct id="0" >
                                         <element name="STRREF" type="4" value="16807576" />
                                         <element name="RESREF" type="11" value="zep_xblmh_003" />
+                                    </struct>
+                                    <struct id="0" >
+                                        <element name="NAME" type="10" value="Streitkolben" />
+                                        <element name="RESREF" type="11" value="wblml003" />
                                     </struct>
                                 </element>
                             </struct>

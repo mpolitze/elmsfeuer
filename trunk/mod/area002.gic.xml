@@ -38,6 +38,9 @@ Hardness DC: 10]]></value>
             <struct id="8" >
                 <element name="Comment" type="10" value="Strong Door" />
             </struct>
+            <struct id="8" >
+                <element name="Comment" type="10" value="Weak Door" />
+            </struct>
         </element>
         <element name="Encounter List" type="15" />
         <element name="List" type="15" />
@@ -45,6 +48,358 @@ Hardness DC: 10]]></value>
         <element name="StoreList" type="15" />
         <element name="TriggerList" type="15" />
         <element name="WaypointList" type="15" />
-        <element name="Placeable List" type="15" />
+        <element name="Placeable List" type="15" >
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: LOK Bar by Danmar" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: LOK Bar by Danmar" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: LOK Bar by Danmar" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: LOK Bar by Danmar" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Liquor Cabinet by DigitalKnightmare" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: LOKPak v3 by Danmar Edited by SBird for CEP" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Tables&apos;n&apos;Stool by Ice-Child" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Sittable Chairs by Janus
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Food by Saloran
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Lisa’s Placeables SOU/1.3 padded by Lisa
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Source: LOK Dungeon Tileset 1.04 Full by Danmar
+(Placeables only extracted)]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Source: LOK Dungeon Tileset 1.04 Full by Danmar
+(Placeables only extracted)]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Bookcase by Killer Axe" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[Rokugan V2 by Kerry Mortensen
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" >
+                    <value><![CDATA[volition's Bio Placeables by volition
+]]></value>
+                </element>
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Carpets by JaffBarrow" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: 4 Fireplaces by Agent X" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="Source: Torture, Taxidermy, and High Tea by Gnomad" />
+            </struct>
+            <struct id="9" >
+                <element name="Comment" type="10" value="" />
+            </struct>
+        </element>
     </struct>
 </gff>
