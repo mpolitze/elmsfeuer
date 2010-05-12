@@ -6904,6 +6904,12 @@
                                 <element name="ID" type="0" value="32" />
                                 <element name="LIST" type="15" >
                                     <struct id="0" >
+                                        <element name="NAME" type="10" value="Gespenst" />
+                                        <element name="RESREF" type="11" value="dj03_gespenst" />
+                                        <element name="CR" type="8" value="3.0" />
+                                        <element name="FACTION" type="10" value="Feindlich" />
+                                    </struct>
+                                    <struct id="0" >
                                         <element name="STRREF" type="4" value="16808998" />
                                         <element name="RESREF" type="11" value="zep_visagegr" />
                                         <element name="CR" type="8" value="7.0" />
@@ -7283,6 +7289,30 @@
                                 <element name="RESREF" type="11" value="zep_rednose" />
                                 <element name="CR" type="8" value="0.25" />
                                 <element name="FACTION" type="10" value="Bürgerlicher" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Wegelagerer" />
+                                <element name="RESREF" type="11" value="dj07_wl" />
+                                <element name="CR" type="8" value="2.0" />
+                                <element name="FACTION" type="10" value="Feindlich" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Wegelagerer (Bogenschützin)" />
+                                <element name="RESREF" type="11" value="dj07_wlbow" />
+                                <element name="CR" type="8" value="2.0" />
+                                <element name="FACTION" type="10" value="Feindlich" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Wegelagerer (Heiler)" />
+                                <element name="RESREF" type="11" value="dj07_wlheiler" />
+                                <element name="CR" type="8" value="3.0" />
+                                <element name="FACTION" type="10" value="Feindlich" />
+                            </struct>
+                            <struct id="0" >
+                                <element name="NAME" type="10" value="Wegelagerer (Schurke)" />
+                                <element name="RESREF" type="11" value="dj07_wlschurke" />
+                                <element name="CR" type="8" value="2.0" />
+                                <element name="FACTION" type="10" value="Feindlich" />
                             </struct>
                         </element>
                     </struct>

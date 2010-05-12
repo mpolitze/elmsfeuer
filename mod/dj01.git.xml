@@ -365,8 +365,8 @@
                 <element name="XPosition" type="8" value="128.20445" />
                 <element name="YPosition" type="8" value="67.0162" />
                 <element name="ZPosition" type="8" value="5.0200057" />
-                <element name="XOrientation" type="8" value="0.7071068" />
-                <element name="YOrientation" type="8" value="0.7071067" />
+                <element name="XOrientation" type="8" value="0.70710677" />
+                <element name="YOrientation" type="8" value="0.70710677" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" >
@@ -702,8 +702,8 @@
                 <element name="XPosition" type="8" value="127.86493" />
                 <element name="YPosition" type="8" value="69.448875" />
                 <element name="ZPosition" type="8" value="4.9999948" />
-                <element name="XOrientation" type="8" value="0.9807853" />
-                <element name="YOrientation" type="8" value="-0.1950902" />
+                <element name="XOrientation" type="8" value="0.98078537" />
+                <element name="YOrientation" type="8" value="-0.19508998" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" />
@@ -1060,7 +1060,7 @@
                 <element name="XPosition" type="8" value="130.50864" />
                 <element name="YPosition" type="8" value="65.97737" />
                 <element name="ZPosition" type="8" value="4.9999943" />
-                <element name="XOrientation" type="8" value="0.19509019" />
+                <element name="XOrientation" type="8" value="0.19509017" />
                 <element name="YOrientation" type="8" value="0.9807853" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
@@ -1615,8 +1615,8 @@
                 <element name="XPosition" type="8" value="166.51924" />
                 <element name="YPosition" type="8" value="76.67792" />
                 <element name="ZPosition" type="8" value="5.017248" />
-                <element name="XOrientation" type="8" value="0.8314698" />
-                <element name="YOrientation" type="8" value="-0.55556995" />
+                <element name="XOrientation" type="8" value="0.8314699" />
+                <element name="YOrientation" type="8" value="-0.55556977" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" >
@@ -1952,8 +1952,8 @@
                 <element name="XPosition" type="8" value="71.19279" />
                 <element name="YPosition" type="8" value="68.291275" />
                 <element name="ZPosition" type="8" value="5.3102303" />
-                <element name="XOrientation" type="8" value="-0.3826846" />
-                <element name="YOrientation" type="8" value="-0.923879" />
+                <element name="XOrientation" type="8" value="-0.38268483" />
+                <element name="YOrientation" type="8" value="-0.92387897" />
                 <element name="TemplateResRef" type="11" value="zep_bsmith_001" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" >
@@ -2196,8 +2196,8 @@
                 <element name="XPosition" type="8" value="142.99492" />
                 <element name="YPosition" type="8" value="77.603485" />
                 <element name="ZPosition" type="8" value="4.9999943" />
-                <element name="XOrientation" type="8" value="-0.70710695" />
-                <element name="YOrientation" type="8" value="-0.7071066" />
+                <element name="XOrientation" type="8" value="-0.7071071" />
+                <element name="YOrientation" type="8" value="-0.7071065" />
                 <element name="TemplateResRef" type="11" value="x3_jousthorse4" />
                 <element name="Race" type="0" value="8" />
                 <element name="FirstName" type="12" value="111459" />
@@ -2462,7 +2462,7 @@
                 <element name="XPosition" type="8" value="137.45027" />
                 <element name="YPosition" type="8" value="158.8419" />
                 <element name="ZPosition" type="8" value="5.0044804" />
-                <element name="XOrientation" type="8" value="-0.3826834" />
+                <element name="XOrientation" type="8" value="-0.3826833" />
                 <element name="YOrientation" type="8" value="0.92387956" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
@@ -2835,8 +2835,8 @@
                 <element name="XPosition" type="8" value="99.90964" />
                 <element name="YPosition" type="8" value="11.295148" />
                 <element name="ZPosition" type="8" value="4.999996" />
-                <element name="XOrientation" type="8" value="0.9807853" />
-                <element name="YOrientation" type="8" value="-0.1950902" />
+                <element name="XOrientation" type="8" value="0.98078537" />
+                <element name="YOrientation" type="8" value="-0.19508998" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" >
@@ -3175,8 +3175,8 @@
                 <element name="XPosition" type="8" value="101.161896" />
                 <element name="YPosition" type="8" value="12.586176" />
                 <element name="ZPosition" type="8" value="5.0037727" />
-                <element name="XOrientation" type="8" value="0.38268372" />
-                <element name="YOrientation" type="8" value="-0.9238794" />
+                <element name="XOrientation" type="8" value="0.38268417" />
+                <element name="YOrientation" type="8" value="-0.9238792" />
                 <element name="TemplateResRef" type="11" value="nw_commale" />
                 <element name="Race" type="0" value="6" />
                 <element name="FirstName" type="12" value="12423" >
@@ -3568,7 +3568,7 @@
                 <element name="X" type="8" value="100.8" />
                 <element name="Y" type="8" value="70.0" />
                 <element name="Z" type="8" value="6.5" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="MineExit" />
@@ -3623,7 +3623,7 @@
                 <element name="X" type="8" value="145.06" />
                 <element name="Y" type="8" value="115.0" />
                 <element name="Z" type="8" value="3.05" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="drawbridge" />
@@ -3733,7 +3733,7 @@
                 <element name="X" type="8" value="105.0" />
                 <element name="Y" type="8" value="33.05" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="RuralExit" />
@@ -3788,7 +3788,7 @@
                 <element name="X" type="8" value="105.0" />
                 <element name="Y" type="8" value="1.8100002" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="drawbridge" />
@@ -3843,7 +3843,7 @@
                 <element name="X" type="8" value="135.0" />
                 <element name="Y" type="8" value="148.35" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="Wall1Gate" />
@@ -3953,7 +3953,7 @@
                 <element name="X" type="8" value="158.35" />
                 <element name="Y" type="8" value="75.0" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="Wall1Gate" />
@@ -4008,7 +4008,7 @@
                 <element name="X" type="8" value="146.95" />
                 <element name="Y" type="8" value="75.0" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="KB_Vorl" />
@@ -4063,7 +4063,7 @@
                 <element name="X" type="8" value="198.19" />
                 <element name="Y" type="8" value="75.0" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="TNO_wd_door" />
@@ -4118,7 +4118,7 @@
                 <element name="X" type="8" value="128.0" />
                 <element name="Y" type="8" value="125.0" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="TNO_wd_door" />
@@ -4173,7 +4173,7 @@
                 <element name="X" type="8" value="127.85" />
                 <element name="Y" type="8" value="45.0" />
                 <element name="Z" type="8" value="5.32" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="MineExit" />
@@ -4228,7 +4228,7 @@
                 <element name="X" type="8" value="198.7" />
                 <element name="Y" type="8" value="24.83" />
                 <element name="Z" type="8" value="3.2" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="x3_door_wood001" />
@@ -4283,7 +4283,7 @@
                 <element name="X" type="8" value="85.56" />
                 <element name="Y" type="8" value="48.0" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="x3_door_stn002" />
@@ -4340,7 +4340,7 @@
                 <element name="X" type="8" value="64.85" />
                 <element name="Y" type="8" value="44.77" />
                 <element name="Z" type="8" value="5.25" />
-                <element name="Bearing" type="8" value="2.3561943" />
+                <element name="Bearing" type="8" value="2.356194" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="RuralExit" />
@@ -4450,7 +4450,7 @@
                 <element name="X" type="8" value="104.95" />
                 <element name="Y" type="8" value="173.63" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="KBKana_KanaIn" />
@@ -4507,7 +4507,7 @@
                 <element name="X" type="8" value="65.0" />
                 <element name="Y" type="8" value="118.9" />
                 <element name="Z" type="8" value="2.43" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="KB_Krypta" />
@@ -4554,7 +4554,7 @@
                 <element name="OnUnlock" type="11" value="" />
                 <element name="OnUserDefined" type="11" value="" />
                 <element name="OnClick" type="11" value="" />
-                <element name="LinkedTo" type="10" value="Krypta_KB" />
+                <element name="LinkedTo" type="10" value="dj03_dj01" />
                 <element name="LinkedToFlags" type="0" value="1" />
                 <element name="LoadScreenID" type="2" value="0" />
                 <element name="GenericType_New" type="4" value="0" />
@@ -4562,7 +4562,7 @@
                 <element name="X" type="8" value="65.58" />
                 <element name="Y" type="8" value="179.965" />
                 <element name="Z" type="8" value="3.86" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="Stadthalle" />
@@ -4674,7 +4674,7 @@
                 <element name="X" type="8" value="63.462" />
                 <element name="Y" type="8" value="104.69" />
                 <element name="Z" type="8" value="5.33" />
-                <element name="Bearing" type="8" value="-1.5707954" />
+                <element name="Bearing" type="8" value="-1.5707953" />
             </struct>
             <struct id="8" >
                 <element name="Tag" type="10" value="KB_ZGK" />
@@ -4731,7 +4731,7 @@
                 <element name="X" type="8" value="112.17" />
                 <element name="Y" type="8" value="49.04" />
                 <element name="Z" type="8" value="5.23" />
-                <element name="Bearing" type="8" value="-1.5707954" />
+                <element name="Bearing" type="8" value="-1.5707953" />
             </struct>
         </element>
         <element name="Encounter List" type="15" />
@@ -4813,7 +4813,7 @@
                 <element name="X" type="8" value="155.61842" />
                 <element name="Y" type="8" value="65.08955" />
                 <element name="Z" type="8" value="10.500004" />
-                <element name="Bearing" type="8" value="-2.7488923" />
+                <element name="Bearing" type="8" value="-2.748892" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_hang001" />
@@ -4870,7 +4870,7 @@
                 <element name="X" type="8" value="67.7595" />
                 <element name="Y" type="8" value="33.628666" />
                 <element name="Z" type="8" value="5.000001" />
-                <element name="Bearing" type="8" value="1.7671434" />
+                <element name="Bearing" type="8" value="1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Hangmans Post" />
@@ -4927,7 +4927,7 @@
                 <element name="X" type="8" value="72.754715" />
                 <element name="Y" type="8" value="27.261662" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-2.9452424" />
+                <element name="Bearing" type="8" value="-2.9452422" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="PlantGrowthShrubs" />
@@ -5383,7 +5383,7 @@
                 <element name="X" type="8" value="119.28401" />
                 <element name="Y" type="8" value="85.11766" />
                 <element name="Z" type="8" value="4.9999948" />
-                <element name="Bearing" type="8" value="-0.78539824" />
+                <element name="Bearing" type="8" value="-0.7853982" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Full Wagon" />
@@ -5497,7 +5497,7 @@
                 <element name="X" type="8" value="135.25865" />
                 <element name="Y" type="8" value="51.89707" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-0.39269882" />
+                <element name="Bearing" type="8" value="-0.3926988" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Wagon Wheel" />
@@ -5725,7 +5725,7 @@
                 <element name="X" type="8" value="177.80826" />
                 <element name="Y" type="8" value="1.9424217" />
                 <element name="Z" type="8" value="4.998885" />
-                <element name="Bearing" type="8" value="2.9452426" />
+                <element name="Bearing" type="8" value="2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="FenceRural1" />
@@ -5782,7 +5782,7 @@
                 <element name="X" type="8" value="185.45988" />
                 <element name="Y" type="8" value="0.8949046" />
                 <element name="Z" type="8" value="5.01" />
-                <element name="Bearing" type="8" value="2.7488923" />
+                <element name="Bearing" type="8" value="2.748892" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_hayb001" />
@@ -6067,7 +6067,7 @@
                 <element name="X" type="8" value="177.1" />
                 <element name="Y" type="8" value="0.6" />
                 <element name="Z" type="8" value="5.93" />
-                <element name="Bearing" type="8" value="-0.06981301" />
+                <element name="Bearing" type="8" value="-0.069813" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_hayb002" />
@@ -6238,7 +6238,7 @@
                 <element name="X" type="8" value="180.5715" />
                 <element name="Y" type="8" value="0.5529361" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-0.981746" />
+                <element name="Bearing" type="8" value="-0.9817459" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Sacks of Flour, Grain, etc." />
@@ -6409,7 +6409,7 @@
                 <element name="X" type="8" value="121.522606" />
                 <element name="Y" type="8" value="1.4895847" />
                 <element name="Z" type="8" value="4.999997" />
-                <element name="Bearing" type="8" value="-2.5525424" />
+                <element name="Bearing" type="8" value="-2.5525422" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_boulder4" />
@@ -6580,7 +6580,7 @@
                 <element name="X" type="8" value="114.515945" />
                 <element name="Y" type="8" value="1.6677585" />
                 <element name="Z" type="8" value="5.01" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_cheval" />
@@ -6637,7 +6637,7 @@
                 <element name="X" type="8" value="169.26082" />
                 <element name="Y" type="8" value="71.042885" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="0.981746" />
+                <element name="Bearing" type="8" value="0.9817459" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_cheval" />
@@ -6694,7 +6694,7 @@
                 <element name="X" type="8" value="171.26683" />
                 <element name="Y" type="8" value="79.59517" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="1.7671434" />
+                <element name="Bearing" type="8" value="1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_cheval" />
@@ -6751,7 +6751,7 @@
                 <element name="X" type="8" value="139.49957" />
                 <element name="Y" type="8" value="160.42635" />
                 <element name="Z" type="8" value="4.999996" />
-                <element name="Bearing" type="8" value="2.7488923" />
+                <element name="Bearing" type="8" value="2.748892" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Anvil" />
@@ -6808,7 +6808,7 @@
                 <element name="X" type="8" value="69.43587" />
                 <element name="Y" type="8" value="65.82859" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="1.9634923" />
+                <element name="Bearing" type="8" value="1.963492" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="Forge" />
@@ -6865,7 +6865,7 @@
                 <element name="X" type="8" value="72.01971" />
                 <element name="Y" type="8" value="64.65237" />
                 <element name="Z" type="8" value="5.092842" />
-                <element name="Bearing" type="8" value="-0.78539824" />
+                <element name="Bearing" type="8" value="-0.7853982" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x0_telescope" />
@@ -6922,7 +6922,7 @@
                 <element name="X" type="8" value="114.92497" />
                 <element name="Y" type="8" value="24.582468" />
                 <element name="Z" type="8" value="10.500004" />
-                <element name="Bearing" type="8" value="-2.3561943" />
+                <element name="Bearing" type="8" value="-2.356194" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_REDAWNING005" />
@@ -7036,7 +7036,7 @@
                 <element name="X" type="8" value="107.85812" />
                 <element name="Y" type="8" value="73.891556" />
                 <element name="Z" type="8" value="4.9810925" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE011" />
@@ -7150,7 +7150,7 @@
                 <element name="X" type="8" value="107.82292" />
                 <element name="Y" type="8" value="76.054375" />
                 <element name="Z" type="8" value="5.0011325" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7207,7 +7207,7 @@
                 <element name="X" type="8" value="106.53859" />
                 <element name="Y" type="8" value="77.2628" />
                 <element name="Z" type="8" value="5.023899" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7264,7 +7264,7 @@
                 <element name="X" type="8" value="104.08341" />
                 <element name="Y" type="8" value="77.44337" />
                 <element name="Z" type="8" value="5.0703564" />
-                <element name="Bearing" type="8" value="2.9452426" />
+                <element name="Bearing" type="8" value="2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7321,7 +7321,7 @@
                 <element name="X" type="8" value="101.490166" />
                 <element name="Y" type="8" value="77.71501" />
                 <element name="Z" type="8" value="5.0591335" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7378,7 +7378,7 @@
                 <element name="X" type="8" value="98.6568" />
                 <element name="Y" type="8" value="77.688095" />
                 <element name="Z" type="8" value="5.0788956" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7435,7 +7435,7 @@
                 <element name="X" type="8" value="96.16688" />
                 <element name="Y" type="8" value="77.43742" />
                 <element name="Z" type="8" value="5.053789" />
-                <element name="Bearing" type="8" value="-2.9452426" />
+                <element name="Bearing" type="8" value="-2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7492,7 +7492,7 @@
                 <element name="X" type="8" value="93.80113" />
                 <element name="Y" type="8" value="77.32676" />
                 <element name="Z" type="8" value="5.0353794" />
-                <element name="Bearing" type="8" value="2.9452426" />
+                <element name="Bearing" type="8" value="2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7549,7 +7549,7 @@
                 <element name="X" type="8" value="91.092865" />
                 <element name="Y" type="8" value="77.53854" />
                 <element name="Z" type="8" value="5.083336" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7606,7 +7606,7 @@
                 <element name="X" type="8" value="88.541176" />
                 <element name="Y" type="8" value="77.4858" />
                 <element name="Z" type="8" value="5.0813847" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7663,7 +7663,7 @@
                 <element name="X" type="8" value="86.14411" />
                 <element name="Y" type="8" value="77.20656" />
                 <element name="Z" type="8" value="5.0779305" />
-                <element name="Bearing" type="8" value="-2.9452426" />
+                <element name="Bearing" type="8" value="-2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7720,7 +7720,7 @@
                 <element name="X" type="8" value="82.535645" />
                 <element name="Y" type="8" value="75.59968" />
                 <element name="Z" type="8" value="4.9752736" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7777,7 +7777,7 @@
                 <element name="X" type="8" value="83.79093" />
                 <element name="Y" type="8" value="76.953156" />
                 <element name="Z" type="8" value="4.914488" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7834,7 +7834,7 @@
                 <element name="X" type="8" value="82.32236" />
                 <element name="Y" type="8" value="73.13693" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-1.7671434" />
+                <element name="Bearing" type="8" value="-1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7891,7 +7891,7 @@
                 <element name="X" type="8" value="82.0397" />
                 <element name="Y" type="8" value="70.63422" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -7948,7 +7948,7 @@
                 <element name="X" type="8" value="82.253105" />
                 <element name="Y" type="8" value="68.2168" />
                 <element name="Z" type="8" value="5.028984" />
-                <element name="Bearing" type="8" value="-1.3744462" />
+                <element name="Bearing" type="8" value="-1.374446" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8005,7 +8005,7 @@
                 <element name="X" type="8" value="82.51357" />
                 <element name="Y" type="8" value="65.702415" />
                 <element name="Z" type="8" value="5.0622215" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8062,7 +8062,7 @@
                 <element name="X" type="8" value="82.77588" />
                 <element name="Y" type="8" value="63.31769" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-1.3744462" />
+                <element name="Bearing" type="8" value="-1.374446" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8233,7 +8233,7 @@
                 <element name="X" type="8" value="89.4425" />
                 <element name="Y" type="8" value="61.91581" />
                 <element name="Z" type="8" value="5.0510864" />
-                <element name="Bearing" type="8" value="-0.19634941" />
+                <element name="Bearing" type="8" value="-0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8404,7 +8404,7 @@
                 <element name="X" type="8" value="97.02136" />
                 <element name="Y" type="8" value="61.817295" />
                 <element name="Z" type="8" value="5.0768776" />
-                <element name="Bearing" type="8" value="0.19634941" />
+                <element name="Bearing" type="8" value="0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8575,7 +8575,7 @@
                 <element name="X" type="8" value="104.57763" />
                 <element name="Y" type="8" value="62.284283" />
                 <element name="Z" type="8" value="5.0570297" />
-                <element name="Bearing" type="8" value="0.19634941" />
+                <element name="Bearing" type="8" value="0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8689,7 +8689,7 @@
                 <element name="X" type="8" value="106.99172" />
                 <element name="Y" type="8" value="65.80488" />
                 <element name="Z" type="8" value="5.081169" />
-                <element name="Bearing" type="8" value="1.3744462" />
+                <element name="Bearing" type="8" value="1.374446" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8746,7 +8746,7 @@
                 <element name="X" type="8" value="107.52" />
                 <element name="Y" type="8" value="68.26683" />
                 <element name="Z" type="8" value="5.0252304" />
-                <element name="Bearing" type="8" value="1.3744462" />
+                <element name="Bearing" type="8" value="1.374446" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -8974,7 +8974,7 @@
                 <element name="X" type="8" value="121.41329" />
                 <element name="Y" type="8" value="42.71966" />
                 <element name="Z" type="8" value="5.0399075" />
-                <element name="Bearing" type="8" value="0.19634941" />
+                <element name="Bearing" type="8" value="0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9031,7 +9031,7 @@
                 <element name="X" type="8" value="127.90764" />
                 <element name="Y" type="8" value="51.98786" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9145,7 +9145,7 @@
                 <element name="X" type="8" value="101.905365" />
                 <element name="Y" type="8" value="48.43524" />
                 <element name="Z" type="8" value="5.058425" />
-                <element name="Bearing" type="8" value="-1.7671434" />
+                <element name="Bearing" type="8" value="-1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9202,7 +9202,7 @@
                 <element name="X" type="8" value="101.62169" />
                 <element name="Y" type="8" value="45.90018" />
                 <element name="Z" type="8" value="4.9999924" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9259,7 +9259,7 @@
                 <element name="X" type="8" value="73.67" />
                 <element name="Y" type="8" value="65.87" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9316,7 +9316,7 @@
                 <element name="X" type="8" value="72.87" />
                 <element name="Y" type="8" value="63.83" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-2.3561943" />
+                <element name="Bearing" type="8" value="-2.356194" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9373,7 +9373,7 @@
                 <element name="X" type="8" value="70.71225" />
                 <element name="Y" type="8" value="62.97067" />
                 <element name="Z" type="8" value="5.023534" />
-                <element name="Bearing" type="8" value="3.1415906" />
+                <element name="Bearing" type="8" value="3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -9430,7 +9430,7 @@
                 <element name="X" type="8" value="68.64552" />
                 <element name="Y" type="8" value="63.782505" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="2.3561943" />
+                <element name="Bearing" type="8" value="2.356194" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="NWN2MerchantStall2" />
@@ -9491,7 +9491,7 @@
                 <element name="X" type="8" value="134.08759" />
                 <element name="Y" type="8" value="83.02978" />
                 <element name="Z" type="8" value="5.199938" />
-                <element name="Bearing" type="8" value="3.1415906" />
+                <element name="Bearing" type="8" value="3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CE_VST_001" />
@@ -9552,7 +9552,7 @@
                 <element name="X" type="8" value="124.49724" />
                 <element name="Y" type="8" value="56.780254" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_LAMPPOST001" />
@@ -9631,7 +9631,7 @@
                 <element name="X" type="8" value="107.74" />
                 <element name="Y" type="8" value="69.57" />
                 <element name="Z" type="8" value="6.0" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_LAMPPOST001" />
@@ -9710,7 +9710,7 @@
                 <element name="X" type="8" value="107.9" />
                 <element name="Y" type="8" value="72.94" />
                 <element name="Z" type="8" value="6.0" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_LAMPPOST001" />
@@ -9868,7 +9868,7 @@
                 <element name="X" type="8" value="97.30274" />
                 <element name="Y" type="8" value="96.507675" />
                 <element name="Z" type="8" value="5.627951" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_ROAD005" />
@@ -9925,7 +9925,7 @@
                 <element name="X" type="8" value="104.93362" />
                 <element name="Y" type="8" value="37.864048" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-3.1415906" />
+                <element name="Bearing" type="8" value="-3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_ROAD005" />
@@ -9982,7 +9982,7 @@
                 <element name="X" type="8" value="142.9718" />
                 <element name="Y" type="8" value="75.19001" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-1.5707953" />
+                <element name="Bearing" type="8" value="-1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_BOATFLIPPED" />
@@ -10100,7 +10100,7 @@
                 <element name="X" type="8" value="46.995014" />
                 <element name="Y" type="8" value="48.03801" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-2.9452426" />
+                <element name="Bearing" type="8" value="-2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CE_CAR_003" />
@@ -10159,7 +10159,7 @@
                 <element name="X" type="8" value="187.14249" />
                 <element name="Y" type="8" value="102.301674" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-0.9817467" />
+                <element name="Bearing" type="8" value="-0.98174655" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CE_CAR_005" />
@@ -10218,7 +10218,7 @@
                 <element name="X" type="8" value="134.99059" />
                 <element name="Y" type="8" value="96.009346" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-0.19634941" />
+                <element name="Bearing" type="8" value="-0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CE_CAR_008" />
@@ -10399,7 +10399,7 @@
                 <element name="X" type="8" value="65.142456" />
                 <element name="Y" type="8" value="100.361984" />
                 <element name="Z" type="8" value="5.1043043" />
-                <element name="Bearing" type="8" value="-0.19634941" />
+                <element name="Bearing" type="8" value="-0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_WAGON001" />
@@ -10456,7 +10456,7 @@
                 <element name="X" type="8" value="103.285034" />
                 <element name="Y" type="8" value="81.679054" />
                 <element name="Z" type="8" value="5.067631" />
-                <element name="Bearing" type="8" value="-1.7671434" />
+                <element name="Bearing" type="8" value="-1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_SIGN_DAG07" />
@@ -10518,7 +10518,7 @@
                 <element name="X" type="8" value="112.01" />
                 <element name="Y" type="8" value="58.75" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-1.5707954" />
+                <element name="Bearing" type="8" value="-1.5707953" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_SIGN_DAG04" />
@@ -10643,7 +10643,7 @@
                 <element name="X" type="8" value="128.76283" />
                 <element name="Y" type="8" value="46.426052" />
                 <element name="Z" type="8" value="4.9999957" />
-                <element name="Bearing" type="8" value="3.1415906" />
+                <element name="Bearing" type="8" value="3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_SIGN014" />
@@ -10704,7 +10704,7 @@
                 <element name="X" type="8" value="136.7732" />
                 <element name="Y" type="8" value="90.86184" />
                 <element name="Z" type="8" value="5.2669067" />
-                <element name="Bearing" type="8" value="3.1415906" />
+                <element name="Bearing" type="8" value="3.1415904" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_NOTICEBRD001" />
@@ -10761,7 +10761,7 @@
                 <element name="X" type="8" value="132.564" />
                 <element name="Y" type="8" value="65.121" />
                 <element name="Z" type="8" value="4.963518" />
-                <element name="Bearing" type="8" value="-2.5525424" />
+                <element name="Bearing" type="8" value="-2.5525422" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="NWN2Barrel1" />
@@ -11150,7 +11150,7 @@
                 <element name="X" type="8" value="185.95782" />
                 <element name="Y" type="8" value="117.34558" />
                 <element name="Z" type="8" value="5.1537395" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FIELD_CROPS" />
@@ -11211,7 +11211,7 @@
                 <element name="X" type="8" value="186.37912" />
                 <element name="Y" type="8" value="123.72934" />
                 <element name="Z" type="8" value="4.923027" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FIELD_CROPS" />
@@ -11272,7 +11272,7 @@
                 <element name="X" type="8" value="186.2109" />
                 <element name="Y" type="8" value="64.38412" />
                 <element name="Z" type="8" value="5.032739" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FIELD_CROPS" />
@@ -11333,7 +11333,7 @@
                 <element name="X" type="8" value="186.06348" />
                 <element name="Y" type="8" value="58.093872" />
                 <element name="Z" type="8" value="5.0993004" />
-                <element name="Bearing" type="8" value="1.5707953" />
+                <element name="Bearing" type="8" value="1.5707952" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_PUMPKINPATCH" />
@@ -11447,7 +11447,7 @@
                 <element name="X" type="8" value="183.78825" />
                 <element name="Y" type="8" value="65.09524" />
                 <element name="Z" type="8" value="4.987625" />
-                <element name="Bearing" type="8" value="-2.9452426" />
+                <element name="Bearing" type="8" value="-2.9452424" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_WELL001" />
@@ -11865,7 +11865,7 @@
                 <element name="X" type="8" value="103.44591" />
                 <element name="Y" type="8" value="66.65597" />
                 <element name="Z" type="8" value="5.6918125" />
-                <element name="Bearing" type="8" value="0.9817467" />
+                <element name="Bearing" type="8" value="0.98174655" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_SHRUB035" />
@@ -12207,7 +12207,7 @@
                 <element name="X" type="8" value="105.912704" />
                 <element name="Y" type="8" value="76.58035" />
                 <element name="Z" type="8" value="5.028942" />
-                <element name="Bearing" type="8" value="2.7488923" />
+                <element name="Bearing" type="8" value="2.748892" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_WEAPONRCK002" />
@@ -12512,7 +12512,7 @@
                 <element name="X" type="8" value="47.779644" />
                 <element name="Y" type="8" value="30.541626" />
                 <element name="Z" type="8" value="17.999998" />
-                <element name="Bearing" type="8" value="1.7671434" />
+                <element name="Bearing" type="8" value="1.7671432" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_BRICOLE" />
@@ -12683,7 +12683,7 @@
                 <element name="X" type="8" value="73.076065" />
                 <element name="Y" type="8" value="114.23838" />
                 <element name="Z" type="8" value="4.999996" />
-                <element name="Bearing" type="8" value="-1.3744462" />
+                <element name="Bearing" type="8" value="-1.374446" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -12740,7 +12740,7 @@
                 <element name="X" type="8" value="87.86938" />
                 <element name="Y" type="8" value="95.819115" />
                 <element name="Z" type="8" value="5.0242033" />
-                <element name="Bearing" type="8" value="-0.19634941" />
+                <element name="Bearing" type="8" value="-0.1963494" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -12797,7 +12797,7 @@
                 <element name="X" type="8" value="89.048676" />
                 <element name="Y" type="8" value="94.51441" />
                 <element name="Z" type="8" value="5.0404673" />
-                <element name="Bearing" type="8" value="-1.5707954" />
+                <element name="Bearing" type="8" value="-1.5707953" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_FENCE001" />
@@ -12854,7 +12854,7 @@
                 <element name="X" type="8" value="88.33656" />
                 <element name="Y" type="8" value="92.46302" />
                 <element name="Z" type="8" value="5.0399294" />
-                <element name="Bearing" type="8" value="-2.3561943" />
+                <element name="Bearing" type="8" value="-2.356194" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="x3_plc_flgstag10" />
@@ -12911,7 +12911,7 @@
                 <element name="X" type="8" value="66.27783" />
                 <element name="Y" type="8" value="44.241837" />
                 <element name="Z" type="8" value="5.003599" />
-                <element name="Bearing" type="8" value="2.3561945" />
+                <element name="Bearing" type="8" value="2.3561943" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CE_CAR_005" />
@@ -13027,7 +13027,7 @@
                 <element name="X" type="8" value="86.3" />
                 <element name="Y" type="8" value="115.03" />
                 <element name="Z" type="8" value="5.16" />
-                <element name="Bearing" type="8" value="1.5707961" />
+                <element name="Bearing" type="8" value="1.5707959" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_BARREL001" />
@@ -13084,7 +13084,7 @@
                 <element name="X" type="8" value="84.82551" />
                 <element name="Y" type="8" value="112.20226" />
                 <element name="Z" type="8" value="5.0230827" />
-                <element name="Bearing" type="8" value="-1.3744466" />
+                <element name="Bearing" type="8" value="-1.3744464" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_CRATE_DAG" />
@@ -13143,7 +13143,7 @@
                 <element name="X" type="8" value="81.494156" />
                 <element name="Y" type="8" value="111.98249" />
                 <element name="Z" type="8" value="5.0516505" />
-                <element name="Bearing" type="8" value="3.1415923" />
+                <element name="Bearing" type="8" value="3.1415918" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_BARREL003" />
@@ -13314,7 +13314,7 @@
                 <element name="X" type="8" value="69.0383" />
                 <element name="Y" type="8" value="104.82921" />
                 <element name="Z" type="8" value="5.280446" />
-                <element name="Bearing" type="8" value="-1.7671458" />
+                <element name="Bearing" type="8" value="-1.7671455" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_KIMCHIJARS01" />
@@ -13717,7 +13717,7 @@
                 <element name="X" type="8" value="71.70318" />
                 <element name="Y" type="8" value="119.76694" />
                 <element name="Z" type="8" value="5.0622864" />
-                <element name="Bearing" type="8" value="-2.945243" />
+                <element name="Bearing" type="8" value="-2.9452426" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_TREE046" />
@@ -13774,7 +13774,7 @@
                 <element name="X" type="8" value="66.273964" />
                 <element name="Y" type="8" value="93.34058" />
                 <element name="Z" type="8" value="5.020005" />
-                <element name="Bearing" type="8" value="0.39269903" />
+                <element name="Bearing" type="8" value="0.39269897" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_TREE046" />
@@ -13831,7 +13831,7 @@
                 <element name="X" type="8" value="55.53504" />
                 <element name="Y" type="8" value="92.78144" />
                 <element name="Z" type="8" value="4.9999943" />
-                <element name="Bearing" type="8" value="-2.945243" />
+                <element name="Bearing" type="8" value="-2.9452426" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_TREE046" />
@@ -13888,7 +13888,7 @@
                 <element name="X" type="8" value="80.61039" />
                 <element name="Y" type="8" value="81.67155" />
                 <element name="Z" type="8" value="5.0135574" />
-                <element name="Bearing" type="8" value="-2.552544" />
+                <element name="Bearing" type="8" value="-2.5525439" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="NWN2Basket3" />
@@ -13949,7 +13949,7 @@
                 <element name="X" type="8" value="74.9158" />
                 <element name="Y" type="8" value="106.9995" />
                 <element name="Z" type="8" value="5.0" />
-                <element name="Bearing" type="8" value="-2.945243" />
+                <element name="Bearing" type="8" value="-2.9452426" />
             </struct>
             <struct id="9" >
                 <element name="Tag" type="10" value="ZEP_LOGSIT001" />

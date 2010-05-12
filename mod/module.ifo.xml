@@ -19,12 +19,12 @@
         </element>
         <element name="Mod_IsSaveGame" type="0" value="0" />
         <element name="Mod_CustomTlk" type="10" value="cep23_v1" />
-        <element name="Mod_Entry_Area" type="11" value="dj01" />
-        <element name="Mod_Entry_X" type="8" value="135.25853" />
-        <element name="Mod_Entry_Y" type="8" value="161.35313" />
-        <element name="Mod_Entry_Z" type="8" value="5.084852" />
-        <element name="Mod_Entry_Dir_X" type="8" value="0.0" />
-        <element name="Mod_Entry_Dir_Y" type="8" value="1.0" />
+        <element name="Mod_Entry_Area" type="11" value="dj07" />
+        <element name="Mod_Entry_X" type="8" value="6.1225524" />
+        <element name="Mod_Entry_Y" type="8" value="55.431763" />
+        <element name="Mod_Entry_Z" type="8" value="-0.6265073" />
+        <element name="Mod_Entry_Dir_X" type="8" value="1.0" />
+        <element name="Mod_Entry_Dir_Y" type="8" value="7.54979E-8" />
         <element name="Mod_Expan_List" type="15" />
         <element name="Mod_DawnHour" type="0" value="6" />
         <element name="Mod_DuskHour" type="0" value="18" />
@@ -91,6 +91,15 @@
             </struct>
             <struct id="6" >
                 <element name="Area_Name" type="11" value="dj01" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="dj06" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="dj03" />
+            </struct>
+            <struct id="6" >
+                <element name="Area_Name" type="11" value="dj07" />
             </struct>
         </element>
         <element name="Mod_HakList" type="15" >
