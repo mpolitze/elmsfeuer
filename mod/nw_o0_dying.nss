@@ -4,23 +4,28 @@
 //------------------------------------------------------------------------------
 
 void bleed(object oPC, int iDueHP){
-    iDueHP--;
     int iActualHP = GetCurrentHitPoints(oPC);
 
     if(iActualHP > 0){
+        SetLocalInt(oPC,"ELM_PC_DIED",0);
+        ApplyEffectToObject(DURATION_TYPE_INSTANT,EffectResurrection(),oPC);
         return;
     }
 
-    if(iActualHP < iDueHP){
-        effect eModHP =  EffectHeal(iDueHP-iActualHP);
+    if(iDueHP > iActualHP){
+        effect eModHP =  EffectDamage(iDueHP-iActualHP+1, DAMAGE_TYPE_DIVINE, DAMAGE_POWER_ENERGY);
         ApplyEffectToObject(DURATION_TYPE_INSTANT, eModHP, oPC);
-    }
-    else if(iDueHP < iActualHP){
-        effect eModHP =  EffectDamage(iActualHP-iDueHP+1, DAMAGE_TYPE_DIVINE, DAMAGE_POWER_ENERGY);
-        ApplyEffectToObject(DURATION_TYPE_INSTANT, eModHP, oPC);
+        iActualHP = GetCurrentHitPoints(oPC);
     }
 
-    if(iDueHP < -9)
+    if(iActualHP > -9){
+        FloatingTextStringOnCreature("Verbluten: " + IntToString(-iDueHP) + "(" + IntToString(-iActualHP) + ")/9", oPC);
+        effect eModHP =  EffectDamage(1, DAMAGE_TYPE_DIVINE, DAMAGE_POWER_ENERGY);
+        ApplyEffectToObject(DURATION_TYPE_INSTANT, eModHP, oPC);
+        iDueHP = iActualHP-1;
+        DelayCommand(RoundsToSeconds(1), bleed(oPC, iDueHP));
+    }
+    else
     {
         int nRnd = Random(GetHitDice(oPC));
         if(nRnd == 0)
@@ -37,6 +42,8 @@ void bleed(object oPC, int iDueHP){
 
             ApplyEffectToObject(DURATION_TYPE_INSTANT, eHeal, oPC);
             ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eLink, oPC, RoundsToSeconds(3));
+
+            SetLocalInt(oPC,"ELM_PC_DIED",0);
         }
         else
         {
@@ -57,10 +64,13 @@ void main()
 
     FloatingTextStringOnCreature("Ausser Gefecht!", oPC);
 
-    SetLocalInt(oPC,"ELM_PC_DIED",0);
 
-    ApplyEffectToObject(DURATION_TYPE_INSTANT, eHeal, oPC);
+
     ApplyEffectToObject(DURATION_TYPE_TEMPORARY, eSanct, oPC, RoundsToSeconds(2));
 
-    DelayCommand(RoundsToSeconds(1), bleed(oPC, -1));
+    if(GetLocalInt(oPC,"ELM_PC_DIED") == 0){
+        SetLocalInt(oPC,"ELM_PC_DIED",-1);
+        ApplyEffectToObject(DURATION_TYPE_INSTANT, eHeal, oPC);
+        DelayCommand(RoundsToSeconds(1), bleed(oPC, -1));
+    }
 }
