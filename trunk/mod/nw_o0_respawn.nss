@@ -11,6 +11,10 @@
 //:://////////////////////////////////////////////
 #include "nw_i0_plot"
 
+int randomInventorySlot(){
+    return 1;
+}
+
 // * Applies an XP and GP penalty
 // * to the player respawning
 void ApplyPenalty(object oDead)
@@ -35,6 +39,9 @@ void ApplyPenalty(object oDead)
     DelayCommand(4.0, FloatingTextStrRefOnCreature(58299, oDead, FALSE));
     DelayCommand(4.8, FloatingTextStrRefOnCreature(58300, oDead, FALSE));
 
+
+    //GetItemInSlot
+    //CopyItem
 }
 
 string getDestTag(object oPC){
