@@ -1,4 +1,32 @@
 #summary Tortoise SVN einstellen, sodass das Modul automatisch als XML-Datei gepackt wird.
+#labels Deprecated
+
+= ACHTUNG ! =
+
+*Die Beschriebene Methode hat schwere Bugs (Überschreiben eigener änderungen, Löschannomalie...) - ich Rate daher, bis diese Sachen gefixt sind davon ab SVN so einzurichten!!*
+
+{{{
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+}}}
 
 = Vorbereitung =
 
