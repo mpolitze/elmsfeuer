@@ -1,6 +1,6 @@
 #summary Benötiger Inhalt
 
 = HAKs =
-http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7849 (CEP 2.3c, ganz unten)
+http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7849 (CEP 2.3c, CEP_23_Full_C.7z)
 
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6631 (Tilesets, alle bis auf Mirkwood)
