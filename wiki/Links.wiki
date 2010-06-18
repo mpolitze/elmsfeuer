@@ -10,10 +10,13 @@ http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=6199 (Detailiertere Händ
 === Pferde ===
 Greifen
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7728
+
 Raptoren
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7727
+
 Mechanische
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7804
+
 
 === VFX ===
 Steinhaut
@@ -26,10 +29,13 @@ http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=766
 === Gameplay ===
 Item Stapel
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7772
+
 Schriftrollen Craft
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7921
+
 Taschen Icons
 http://nwvault.ign.com/View.php?view=Hakpaks.Detail&id=7923
+
 
 
 === Grafik verbesserung ===
