@@ -1,0 +1,18 @@
+#summary Nomenklatur
+#labels Phase-Design,Phase-Implementation
+
+= Einleitung =
+
+Gebiete bekommen einen (fortlaufenden) Index. Zugehörige Ressourcen haben diesen Index als Präfix im Tag.
+Globale Ressourcen bekommen "elm_" als Präfix.
+
+Da wir mit mehreren Entwicklern am Modul arbeiten, ist das mit rein numerischen Indizes vllt. etwas schwierig. Daher arbeitet jeder Modder mit einem Kürzel und einer für sich fortlaufenden Nummer.
+
+= Beispiel =
+
+dj01 -> Startgebiet
+dj01_nsc -> NSC in diesem Gebiet
+dj01_dj02 -> Gebietsübergang
+dj01_skript, dj01_nsc-conv, etc.
+bzw.
+elm_goblin, elm_onModuleLoad, etc.
