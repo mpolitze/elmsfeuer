@@ -1,0 +1,1 @@
+A persistant world for the game Neverwinter Nights.
